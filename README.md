@@ -5,27 +5,6 @@ This is a modular, rule-based forex trading system designed to integrate with **
 
 ---
 
-## 📁 Project Structure
-
-```
-
-rule\_based\_forex/
-└── core/
-├── EURUSDm\_15min\_data.csv                  # Sample dataset (15-min timeframe)
-├── fractals\_strategy.py                    # Strategy based on fractal breakouts
-├── ichimoku.py                             # Ichimoku-specific trading logic
-├── indicators.py                           # Custom indicator classes (RSI, EMA, VWAP, etc.)
-├── initialiser.py                          # Initializes broker session
-├── helper\_functions.py                     # Core helper functions (MT5 API, SL/TP, candle logic)
-├── logs/                                   # Stores logs for trades, debug info, etc.
-├── plot\_fractals.py                        # Visualizes fractal levels on price chart
-├── plot\_support\_resistance\_levels.py       # Plots SR zones based on historical data
-├── SMA\_ichimoku\_strategy.py                # Combined SMA + Ichimoku strategy
-├── SMA\_stochastic\_strategy.py              # Combined SMA + Stochastic crossover logic
-└── SMA\_VWAP\_RSI\_strategy.py                # Combined SMA + VWAP + RSI strategy
-
-````
-
 ---
 
 ## 🔧 Functional Overview
@@ -55,8 +34,8 @@ Includes reusable utilities such as:
 ### 4. **Strategies**
 Each strategy file in the root directory encapsulates a unique trading logic:
 
-| Strategy File | Description |
-|---------------|-------------|
+| Strategy File       |                Description |
+|-------------------------|-----------------------|
 | `fractals_strategy.py` | Trades breakouts based on fractal highs/lows |
 | `SMA_ichimoku_strategy.py` | Combines Ichimoku trend with SMA confirmation |
 | `SMA_stochastic_strategy.py` | Trades stochastic oversold/overbought + SMA trend |
