@@ -1,0 +1,122 @@
+2024-12-30 05:10:00,449 - INFO - Program stopped manually.
+2025-01-01 10:28:06,351 - INFO - Program stopped manually.
+2025-01-02 06:18:51,849 - ERROR - Critical error: name 'fractals' is not defined
+2025-01-02 06:20:50,226 - INFO - Program stopped manually.
+2025-01-02 06:21:07,390 - INFO - Program stopped manually.
+2025-01-02 06:22:05,621 - INFO - Program stopped manually.
+2025-01-02 06:22:22,754 - INFO - Program stopped manually.
+2025-01-02 13:57:22,693 - INFO - Program stopped manually.
+2025-01-03 20:32:11,999 - INFO - Program interrupted by User.
+2025-01-15 08:10:15,803 - INFO - Program interrupted by User.
+2025-01-16 09:39:32,768 - INFO - EURJPYm 2:SELL order placed successfully with SL: 161.10782142857144 and TP:159.95035714285714
+2025-01-16 09:39:32,769 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-16 14:30:07,753 - INFO - EURGBPm 2:BUY order placed successfully with SL: 0.8421128571428571 and TP: 0.8437557142857143
+2025-01-16 14:30:07,760 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-17 11:45:04,246 - INFO - NZDUSDm 2:SELL order placed successfully with SL: 0.5611707142857143 and TP:0.5578985714285715
+2025-01-17 11:45:04,250 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-17 13:31:12,142 - INFO - EURGBPm 2:BUY order placed successfully with SL: 0.8432214285714287 and TP: 0.8450678571428571
+2025-01-17 13:31:12,145 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-17 13:45:37,103 - INFO - GBPUSDm 2:SELL order placed successfully with SL: 1.2226117857142857 and TP:1.2156464285714288
+2025-01-17 13:45:37,104 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-17 17:50:29,139 - INFO - EURGBPm 2:BUY order placed successfully with SL: 0.8432021428571429 and TP: 0.8453717857142857
+2025-01-17 17:50:29,143 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-17 18:21:17,255 - INFO - USDCADm 2:BUY order placed successfully with SL: 1.438945714285714 and TP: 1.4429064285714284
+2025-01-17 18:21:17,256 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-17 19:14:43,482 - INFO - Program interrupted by User.
+2025-01-22 15:46:08,370 - INFO - EURGBPm 2:BUY order placed successfully with SL: 0.8441821428571429 and TP: 0.8459017857142856
+2025-01-22 15:46:08,388 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-22 20:33:02,814 - INFO - EURGBPm 2:BUY order placed successfully with SL: 0.84466 and TP: 0.846585
+2025-01-22 20:33:02,819 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-24 20:15:15,172 - INFO - EURJPYm 2:BUY order placed successfully with SL: 163.19314285714287 and TP: 164.26528571428574
+2025-01-24 20:15:15,191 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-28 02:00:02,271 - INFO - EURAUDm 2:BUY order placed successfully with SL: 1.665912142857143 and TP: 1.6711317857142858
+2025-01-28 02:00:02,297 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-28 02:20:02,142 - INFO - USDCADm 2:BUY order placed successfully with SL: 1.4379328571428571 and TP: 1.4416757142857142
+2025-01-28 02:20:02,142 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-28 06:20:52,828 - INFO - USDCADm 2:BUY order placed successfully with SL: 1.4393000000000002 and TP: 1.442625
+2025-01-28 06:20:52,831 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-28 12:51:13,365 - INFO - USDCADm 2:BUY order placed successfully with SL: 1.4382514285714285 and TP: 1.4422728571428571
+2025-01-28 12:51:13,368 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-29 11:08:59,973 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:03,027 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:06,042 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:09,073 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:12,098 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:15,131 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:18,168 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:21,212 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:24,240 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 11:09:27,271 - ERROR - Error occurred while adjusting trailing stop: 'NoneType' object has no attribute 'point'
+2025-01-29 18:05:00,040 - INFO - AUDUSDm 2:SELL order placed successfully with SL: 0.6233117857142857 and TP:0.6196764285714286
+2025-01-29 18:05:00,043 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-29 19:15:45,905 - INFO - EURAUDm 2:BUY order placed successfully with SL: 1.6709857142857143 and TP: 1.6751464285714286
+2025-01-29 19:15:45,910 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-29 21:30:11,804 - INFO - AUDUSDm 2:SELL order placed successfully with SL: 0.6246342857142857 and TP:0.6205714285714286
+2025-01-29 21:30:11,807 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-31 12:57:31,309 - INFO - EURJPYm 2:SELL order placed successfully with SL: 161.08735714285714 and TP:159.61328571428575
+2025-01-31 12:57:31,311 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-31 13:35:18,897 - INFO - USDCHFm 2:BUY order placed successfully with SL: 0.9096721428571428 and TP: 0.9119917857142857
+2025-01-31 13:35:18,899 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-31 15:15:02,002 - INFO - USDCADm 2:BUY order placed successfully with SL: 1.4462421428571428 and TP: 1.4508117857142857
+2025-01-31 15:15:02,004 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-31 15:15:10,845 - INFO - NZDUSDm 2:SELL order placed successfully with SL: 0.5657325000000001 and TP:0.561795
+2025-01-31 15:15:10,846 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-31 15:27:20,402 - INFO - AUDUSDm 2:SELL order placed successfully with SL: 0.6230471428571429 and TP:0.6188557142857143
+2025-01-31 15:27:20,406 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-31 18:39:07,026 - INFO - USDCADm 2:BUY order placed successfully with SL: 1.4456671428571428 and TP: 1.4518492857142857
+2025-01-31 18:39:07,029 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-01-31 18:44:02,611 - INFO - Program interrupted by User.
+2025-02-04 20:57:08,262 - INFO - Program interrupted by User.
+2025-02-05 07:05:44,725 - INFO - USDJPYm 2:SELL order placed successfully with SL: 153.65075 and TP:152.17249999999999
+2025-02-05 07:05:44,732 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-05 09:46:30,874 - INFO - Program interrupted by User.
+2025-02-11 11:31:05,424 - INFO - EURUSDm 2:SELL order placed successfully with SL: 1.0317060714285713 and TP:1.0287778571428572
+2025-02-11 11:31:05,433 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-11 11:58:00,312 - INFO - EURAUDm 2:SELL order placed successfully with SL: 1.6449992857142857 and TP:1.6372914285714286
+2025-02-11 11:58:00,317 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-11 12:06:23,164 - INFO - USDJPYm 2:SELL order placed successfully with SL: 152.12196428571428 and TP:151.38107142857143
+2025-02-11 12:06:23,165 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-12 19:55:20,535 - INFO - NZDUSDm 2:SELL order placed successfully with SL: 0.5655867857142858 and TP:0.5601064285714287
+2025-02-12 19:55:20,557 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-12 19:56:02,122 - INFO - USDCHFm 2:BUY order placed successfully with SL: 0.9119257142857143 and TP: 0.9150614285714286
+2025-02-12 19:56:02,123 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-12 21:51:21,673 - INFO - AUDUSDm 2:BUY order placed successfully with SL: 0.6272414285714285 and TP: 0.6309378571428571
+2025-02-12 21:51:21,680 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-12 21:55:00,437 - INFO - USDCADm 2:SELL order placed successfully with SL: 1.4318860714285713 and TP:1.4224778571428571
+2025-02-12 21:55:00,437 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-12 23:30:03,651 - INFO - USDCHFm 2:BUY order placed successfully with SL: 0.91145 and TP: 0.915025
+2025-02-12 23:30:03,652 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 08:45:04,274 - INFO - AUDUSDm 2:BUY order placed successfully with SL: 0.6282528571428572 and TP: 0.6308957142857143
+2025-02-13 08:45:04,277 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 10:35:03,345 - INFO - USDCADm 2:SELL order placed successfully with SL: 1.4289025 and TP:1.4229850000000002
+2025-02-13 10:35:03,358 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 13:25:14,405 - INFO - NZDUSDm 2:SELL order placed successfully with SL: 0.5652789285714286 and TP:0.5617721428571428
+2025-02-13 13:25:14,412 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 18:00:24,294 - INFO - NZDUSDm 2:SELL order placed successfully with SL: 0.5649482142857143 and TP:0.5611135714285714
+2025-02-13 18:00:24,300 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 19:55:01,303 - INFO - USDCADm 2:SELL order placed successfully with SL: 1.425905357142857 and TP:1.4170692857142857
+2025-02-13 19:55:01,312 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 19:55:01,642 - INFO - GBPUSDm 2:BUY order placed successfully with SL: 1.250139285714286 and TP: 1.2560910714285713
+2025-02-13 19:55:01,643 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 21:44:28,650 - INFO - NZDUSDm 2:SELL order placed successfully with SL: 0.5659446428571429 and TP:0.5611007142857143
+2025-02-13 21:44:28,655 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-13 23:25:02,404 - INFO - EURGBPm 2:SELL order placed successfully with SL: 0.8347775000000001 and TP:0.8299850000000001
+2025-02-13 23:25:02,408 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 00:32:51,171 - INFO - USDCADm 2:SELL order placed successfully with SL: 1.423485 and TP:1.41255
+2025-02-14 00:32:51,179 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 00:43:01,026 - INFO - AUDUSDm 2:BUY order placed successfully with SL: 0.6302014285714286 and TP: 0.6337478571428571
+2025-02-14 00:43:01,028 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 07:23:03,395 - INFO - EURGBPm 2:SELL order placed successfully with SL: 0.8339242857142857 and TP:0.8311214285714286
+2025-02-14 07:23:03,402 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 07:45:02,786 - INFO - AUDUSDm 2:BUY order placed successfully with SL: 0.6307128571428572 and TP: 0.6337557142857143
+2025-02-14 07:45:02,791 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 08:05:08,142 - INFO - GBPUSDm 2:BUY order placed successfully with SL: 1.2536935714285715 and TP: 1.2582096428571428
+2025-02-14 08:05:08,145 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 08:20:39,044 - INFO - USDCADm 2:SELL order placed successfully with SL: 1.4211928571428571 and TP:1.4139542857142855
+2025-02-14 08:20:39,045 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 10:33:43,833 - INFO - USDJPYm 2:SELL order placed successfully with SL: 153.09332142857141 and TP:151.81435714285715
+2025-02-14 10:33:43,839 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 12:52:03,477 - INFO - GBPUSDm 2:BUY order placed successfully with SL: 1.2571657142857142 and TP: 1.2607264285714284
+2025-02-14 12:52:03,483 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
+2025-02-14 12:57:31,674 - INFO - AUDUSDm 2:BUY order placed successfully with SL: 0.6330721428571429 and TP: 0.6352917857142857
+2025-02-14 12:57:31,675 - ERROR - 2:Error occurred while placing the order: log_trade() missing 1 required positional argument: 'log_filename'
